@@ -1,22 +1,17 @@
 # Simple but Solidy Weather App (WPF)
 
 *********************************************************************************************************
-* program created while learning the C# language and possibilities by using freamwork and other add-ons.*
+ Program created while learning the C# language and possibilities by using freamwork and other add-ons.
 *********************************************************************************************************
 
-! ***************************************************************************************************** !
-! Credits :                                                                                             !
-! Applause as well as the original idea should be given to Jannick Laismann,                            !
-! he as my temporary "docent" taught me the techniques for creating this application.                   !
-! ***************************************************************************************************** !
+ *****************************************************************************************************
+  Credits :                                                                                             
+  Applause as well as the original idea should be given to Jannick Laismann,                            
+  he as my temporary "docent" taught me the techniques for creating this application.                   
+ ***************************************************************************************************** 
 
-
-
-
-
-                                      *  More Description *
-
-#########################################################################################################
+Afterword :
+ ***************************************************************************************************** 
 
 More description about the development of the project and its future :
 There will be 2 versions of this application, one in a simple and very clear version that will allow 
@@ -28,4 +23,4 @@ The second version of the application will be further developed, to the developm
 you can join if you want, as well as serve me in the further development of my skills. 
 Based in this case on the development of front and back /-end code
 
-#########################################################################################################
+ ***************************************************************************************************** 
