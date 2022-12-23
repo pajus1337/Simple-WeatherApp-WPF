@@ -7,7 +7,7 @@
  *****************************************************************************************************
   Credits :                                                                                             
   Applause as well as the original idea should be given to Jannick Laismann,                            
-  he as my "temporary docent" taught me the techniques for creating this application.                   
+  he as my temporary "docent" taught me the techniques for creating this application.                   
  ***************************************************************************************************** 
 
 Afterword :
