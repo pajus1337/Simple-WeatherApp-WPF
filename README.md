@@ -3,8 +3,9 @@
 *********************************************************************************************************
  Program created while learning the C# language and possibilities by using freamwork and other add-ons.
 *********************************************************************************************************
-
+![Screenshot_5](https://user-images.githubusercontent.com/74528115/210078633-946cd466-0419-4bd4-8f8f-7885cce5d9e6.png)
  *****************************************************************************************************
+
   Credits :                                                                                             
   Applause as well as the original idea should be given to Jannick Laismann,                            
   he as my temporary "docent" taught me the techniques for creating this application.                   
